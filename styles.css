@@ -1,0 +1,35 @@
+.container{
+    height: 300px;
+    width: 400px;
+    background-color: aqua;
+    margin: auto;
+    border: 1px solid goldenrod;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+
+.login{
+    color: rebeccapurple;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: arial narrow bold, 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+}
+
+.input-box{
+    width: 90%;
+    margin-left: 13px;
+    padding-left: 10px;
+    margin-bottom: 20px;
+}
+
+.login-btn{
+    background-color: darkgoldenrod;
+    color: rgb(251, 254, 251);
+    width: 100px;
+    text-align: center;
+    margin-left: 150px;
+    font-family: Times New Roman ;
+    font-size: 13px;
+}
